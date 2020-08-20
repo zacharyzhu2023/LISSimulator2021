@@ -1,0 +1,6 @@
+C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPcsLibrary\bin\Debug\TCPcsLibrary.dll
+C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPcsLibrary\bin\Debug\TCPcsLibrary.pdb
+C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPcsLibrary\obj\Debug\TCPcsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPcsLibrary\obj\Debug\TCPcsLibrary.dll
+C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPcsLibrary\obj\Debug\TCPcsLibrary.pdb
+C:\Users\zz0620\Desktop\LisSimulator\LISSimV5\TCPcsLibrary\obj\Debug\TCPcsLibrary.csprojAssemblyReference.cache

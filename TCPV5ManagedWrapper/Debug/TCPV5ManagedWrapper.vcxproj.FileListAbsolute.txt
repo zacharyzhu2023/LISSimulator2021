@@ -1,0 +1,2 @@
+C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPV5ManagedWrapper\Debug\TCPV5ManagedWrapper.vcxprojAssemblyReference.cache
+C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPV5ManagedWrapper\Debug\TCPV5ManagedWrapper.vcxproj.CopyComplete

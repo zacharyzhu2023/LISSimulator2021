@@ -1,0 +1,9 @@
+C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPCSFunctions\bin\Debug\netstandard2.0\TCPCSFunctions.deps.json
+C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPCSFunctions\bin\Debug\netstandard2.0\TCPCSFunctions.dll
+C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPCSFunctions\bin\Debug\netstandard2.0\TCPCSFunctions.pdb
+C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPCSFunctions\obj\Debug\netstandard2.0\TCPCSFunctions.csprojAssemblyReference.cache
+C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPCSFunctions\obj\Debug\netstandard2.0\TCPCSFunctions.AssemblyInfoInputs.cache
+C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPCSFunctions\obj\Debug\netstandard2.0\TCPCSFunctions.AssemblyInfo.cs
+C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPCSFunctions\obj\Debug\netstandard2.0\TCPCSFunctions.csproj.CoreCompileInputs.cache
+C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPCSFunctions\obj\Debug\netstandard2.0\TCPCSFunctions.dll
+C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPCSFunctions\obj\Debug\netstandard2.0\TCPCSFunctions.pdb
