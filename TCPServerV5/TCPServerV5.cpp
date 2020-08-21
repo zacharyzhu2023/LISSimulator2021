@@ -30,7 +30,9 @@ int main()
 	double sendDelay = 0;
 	TCPConnectionV5 testServer(isServer, sendDelay, msg1, msg2);
 
-	testServer.startServer("10.9.74.48", 1787);
+	// Work IP: 10.9.74.48
+	// Home IP: 192.168.1.19
+	testServer.startServer("192.168.1.19", 1787);
 	/* Close the server */
 	closesocket(testServer.getListener());
 	WSACleanup();

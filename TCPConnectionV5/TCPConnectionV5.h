@@ -364,7 +364,7 @@ private:
 	/* Default toHeader, fromHeader, delimiters, and autoOrder */
 	string _toHeader = "Panther", _fromHeader = "LISHost", _delimiters = "|\\^&";
 	vector<AssayV5> _autoOrders = v1;
-	/* Default bid priority, number of linBids, timeout*/
+	/* Default bid priority, number of lineBids, timeout*/
 	int _bidPriority = 0, _numLineBids = 7, _msTimeout = 0;
 	map<SOCKET, string> _socketToHeaders;
 	map<SOCKET, string> _socketFromHeaders;

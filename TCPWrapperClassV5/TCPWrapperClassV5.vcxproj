@@ -80,7 +80,7 @@
       <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
       <WarningLevel>Level3</WarningLevel>
       <PreprocessorDefinitions>WIN32;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\HostQueryV5;C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPConnectionV5;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\zz0620\Desktop\LisSIMV5\HostQueryV5;C:\Users\zz0620\Desktop\LisSIMV5\TCPConnectionV5;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <AdditionalDependencies />
@@ -92,7 +92,7 @@
       <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
       <WarningLevel>Level3</WarningLevel>
       <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\HostQueryV5;C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPConnectionV5;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\zz0620\Desktop\LisSIMV5\HostQueryV5;C:\Users\zz0620\Desktop\LisSIMV5\TCPConnectionV5;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <AdditionalDependencies />
@@ -104,7 +104,7 @@
       <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
       <WarningLevel>Level3</WarningLevel>
       <PreprocessorDefinitions>WIN32;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\HostQueryV5;C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPConnectionV5;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\zz0620\Desktop\LisSIMV5\HostQueryV5;C:\Users\zz0620\Desktop\LisSIMV5\TCPConnectionV5;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <AdditionalDependencies />
@@ -116,7 +116,7 @@
       <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
       <WarningLevel>Level3</WarningLevel>
       <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\HostQueryV5;C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPConnectionV5;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\zz0620\Desktop\LisSIMV5\HostQueryV5;C:\Users\zz0620\Desktop\LisSIMV5\TCPConnectionV5;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <AdditionalDependencies />

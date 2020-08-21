@@ -372,8 +372,12 @@ Runs initWinsock() and findClientMessager()
 */
 void TCPConnectionV5::startClient()
 {
-	/* 10.9.74.48 is the IP address passed--can be configured */
-	initWinsock("10.9.74.48");
+
+	// Work IP: 10.9.74.48
+	// Home IP: 192.168.1.19
+	/* IP Address can be configured */
+	
+	initWinsock("192.168.1.19");
 	findClientMessager();
 }
 
