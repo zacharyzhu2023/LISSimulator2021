@@ -14,7 +14,7 @@ the server and listening for clients & testing messaging protocols.
 #include <iostream>
 #include <string>
 #include "TCPConnectionV5.h"
-
+#include "UnmanagedWrapper.h"
 using namespace std;
 
 /** <summary>
@@ -28,6 +28,12 @@ int main()
 	string msg1 = string(1, char(6));
 	string msg2 = "another default message";
 	double sendDelay = 0;
+
+	/* Testing running a C# DLL class's functions */
+	UnmanagedWrapper wrap;
+	wrap.doubleMessage("testerMsg");
+	//cout << "Double message: " << wrap.doubleMessage("testerMsg") << endl;
+
 	TCPConnectionV5 testServer(isServer, sendDelay, msg1, msg2);
 
 	// Work IP: 10.9.74.48
