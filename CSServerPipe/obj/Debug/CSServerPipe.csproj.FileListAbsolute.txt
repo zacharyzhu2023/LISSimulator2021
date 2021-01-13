@@ -1,0 +1,7 @@
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\CSServerPipe\bin\Debug\CSServerPipe.dll
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\CSServerPipe\bin\Debug\CSServerPipe.pdb
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\Debug\CSServerPipe.dll
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\Debug\CSServerPipe.pdb
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\CSServerPipe\obj\Debug\CSServerPipe.csproj.CoreCompileInputs.cache
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\CSServerPipe\obj\Debug\CSServerPipe.dll
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\CSServerPipe\obj\Debug\CSServerPipe.pdb

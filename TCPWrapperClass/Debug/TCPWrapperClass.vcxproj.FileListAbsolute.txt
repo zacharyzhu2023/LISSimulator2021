@@ -1,0 +1,1 @@
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\TCPWrapperClass\Debug\TCPWrapperClass.vcxprojAssemblyReference.cache

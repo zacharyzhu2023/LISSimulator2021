@@ -1,0 +1,35 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly TCPWrapperClass, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class ManagedObject<TCPConnection>: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(TCPConnection*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Methods:
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class TCPWrapperClass: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :ManagedObject<TCPConnection>
+    Void .ctor(Boolean, Double, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    printTime(): PrivateScope, Public, HideBySig
+    printChar(SByte IsSignUnspecifiedByte): PrivateScope, Public, HideBySig
+    printMessage(String): PrivateScope, Public, HideBySig
+    listen(String, Int32): PrivateScope, Public, HideBySig
+    close(Int32): PrivateScope, Public, HideBySig
+    addSampleOrder(String, PatientInformation*, vector<Assay\,std::allocator<Assay> >*): PrivateScope, Public, HideBySig
+    deleteSampleOrder(String): PrivateScope, Public, HideBySig
+    setMaximumDatabaseSize(Int32): PrivateScope, Public, HideBySig
+    setHeaderFrom(Int32, String): PrivateScope, Public, HideBySig
+    setHeaderTo(Int32, String): PrivateScope, Public, HideBySig
+    setHeaders(Int32, String, String): PrivateScope, Public, HideBySig
+    setDelimiters(Int32, String, String, String, String): PrivateScope, Public, HideBySig
+    setAutoOrder(Int32, vector<Assay\,std::allocator<Assay> >*): PrivateScope, Public, HideBySig
+    setLineBids(Int32, Int32, Int32, Int32): PrivateScope, Public, HideBySig

@@ -1,4 +1,0 @@
-C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPUnmanagedWrapperTest\Debug\TCPUnmanagedWrapperTest.vcxprojAssemblyReference.cache
-C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPUnmanagedWrapperTest\Debug\TCPUnmanagedWrapperTest.vcxproj.CopyComplete
-C:\Users\zz0620\Desktop\LisSIMV5\TCPUnmanagedWrapperTest\Debug\TCPUnmanagedWrapperTest.vcxprojAssemblyReference.cache
-C:\Users\zz0620\Desktop\LisSIMV5\TCPUnmanagedWrapperTest\Debug\TCPUnmanagedWrapperTest.vcxproj.CopyComplete

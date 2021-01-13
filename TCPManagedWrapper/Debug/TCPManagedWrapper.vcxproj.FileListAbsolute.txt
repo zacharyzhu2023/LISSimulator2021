@@ -1,0 +1,2 @@
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\TCPManagedWrapper\Debug\TCPManagedWrapper.vcxprojAssemblyReference.cache
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\TCPManagedWrapper\Debug\TCPManagedWrapper.vcxproj.CopyComplete

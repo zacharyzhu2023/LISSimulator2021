@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\Debug\TCPUnmanagedWrapper.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\Debug\TCPServer.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs>
+    <NonRecipeFileRef>
+      <FullPath>C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\TCPcsLibrary\TCPcsLibrary.csproj</FullPath>
+    </NonRecipeFileRef>
+  </NonRecipeFileRefs>
+</Project>

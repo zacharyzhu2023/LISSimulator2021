@@ -1,8 +1,0 @@
-﻿  TCPClientV5.cpp
-C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPClientV5\TCPClientV5.cpp(56,17): warning C4101: 'receiveWorks': unreferenced local variable
-C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPClientV5\TCPClientV5.cpp(56,6): warning C4101: 'sendWorks': unreferenced local variable
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 916 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  TCPClientV5.vcxproj -> C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\Release\TCPClientV5.exe

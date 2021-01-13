@@ -1,0 +1,9 @@
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\Debug\netcoreapp3.0\CSharpReceiverPipe.deps.json
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\Debug\netcoreapp3.0\CSharpReceiverPipe.dll
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\Debug\netcoreapp3.0\CSharpReceiverPipe.pdb
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\CSharpReceiverPipe\obj\Debug\netcoreapp3.0\CSharpReceiverPipe.csprojAssemblyReference.cache
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\CSharpReceiverPipe\obj\Debug\netcoreapp3.0\CSharpReceiverPipe.AssemblyInfoInputs.cache
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\CSharpReceiverPipe\obj\Debug\netcoreapp3.0\CSharpReceiverPipe.AssemblyInfo.cs
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\CSharpReceiverPipe\obj\Debug\netcoreapp3.0\CSharpReceiverPipe.csproj.CoreCompileInputs.cache
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\CSharpReceiverPipe\obj\Debug\netcoreapp3.0\CSharpReceiverPipe.dll
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\CSharpReceiverPipe\obj\Debug\netcoreapp3.0\CSharpReceiverPipe.pdb

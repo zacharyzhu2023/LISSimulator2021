@@ -2,5 +2,5 @@
   .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
   Generating Code...
   UnmanagedWrapper.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-     Creating library C:\Users\zz0620\Desktop\LisSIMV5\Debug\TCPUnmanagedWrapper.lib and object C:\Users\zz0620\Desktop\LisSIMV5\Debug\TCPUnmanagedWrapper.exp
-  TCPUnmanagedWrapper.vcxproj -> C:\Users\zz0620\Desktop\LisSIMV5\Debug\TCPUnmanagedWrapper.dll
+     Creating library ..\Debug\TCPUnmanagedWrapper.lib and object ..\Debug\TCPUnmanagedWrapper.exp
+  TCPUnmanagedWrapper.vcxproj -> C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\Debug\TCPUnmanagedWrapper.dll

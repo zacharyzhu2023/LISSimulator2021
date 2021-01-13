@@ -1,0 +1,14 @@
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\Debug\netcoreapp3.1\CSharpPipeInstance.exe
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\Debug\netcoreapp3.1\CSharpPipeInstance.deps.json
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\Debug\netcoreapp3.1\CSharpPipeInstance.runtimeconfig.json
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\Debug\netcoreapp3.1\CSharpPipeInstance.runtimeconfig.dev.json
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\Debug\netcoreapp3.1\CSharpPipeInstance.dll
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\Debug\netcoreapp3.1\CSharpPipeInstance.pdb
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\CSharpPipeInstance\obj\Debug\netcoreapp3.1\CSharpPipeInstance.csprojAssemblyReference.cache
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\CSharpPipeInstance\obj\Debug\netcoreapp3.1\CSharpPipeInstance.AssemblyInfoInputs.cache
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\CSharpPipeInstance\obj\Debug\netcoreapp3.1\CSharpPipeInstance.AssemblyInfo.cs
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\CSharpPipeInstance\obj\Debug\netcoreapp3.1\CSharpPipeInstance.csproj.CoreCompileInputs.cache
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\CSharpPipeInstance\obj\Debug\netcoreapp3.1\CSharpPipeInstance.csproj.CopyComplete
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\CSharpPipeInstance\obj\Debug\netcoreapp3.1\CSharpPipeInstance.dll
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\CSharpPipeInstance\obj\Debug\netcoreapp3.1\CSharpPipeInstance.pdb
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\CSharpPipeInstance\obj\Debug\netcoreapp3.1\CSharpPipeInstance.genruntimeconfig.cache

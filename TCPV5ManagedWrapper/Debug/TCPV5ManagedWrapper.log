@@ -1,8 +1,0 @@
-﻿  TCPV5CSWrapper.cpp
-C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPV5ManagedWrapper\TCPV5CSWrapper.cpp(11,1): warning C4691: 'System::Object': type referenced was expected in unreferenced assembly 'netstandard', type defined in current translation unit used instead
-C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPV5ManagedWrapper\TCPV5CSWrapper.cpp(11,1): message : This diagnostic occurred while importing type 'TCPcsFunctions::TCPcsClass ' from assembly 'TCPCSFunctions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
-  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
-  Generating Code...
-  TCPV5CSWrapper.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-     Creating library C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\Debug\TCPV5ManagedWrapper.lib and object C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\Debug\TCPV5ManagedWrapper.exp
-  TCPV5ManagedWrapper.vcxproj -> C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\Debug\TCPV5ManagedWrapper.dll

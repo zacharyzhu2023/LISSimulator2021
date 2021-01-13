@@ -73,6 +73,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
     <PreBuildEventUseInBuild>false</PreBuildEventUseInBuild>
+    <OutDir>..\Debug\</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
@@ -92,7 +93,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\zz0620\Desktop\LisSIMV5\HostQueryV5;C:\Users\zz0620\Desktop\LisSIMV5\TCPConnectionV5;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\TCPConnection;..\HostQuery;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -107,7 +108,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\zz0620\Desktop\LisSIMV5\HostQueryV5;C:\Users\zz0620\Desktop\LisSIMV5\TCPConnectionV5;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPConnectionV5;C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\HostQueryV5;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -122,7 +123,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\zz0620\Desktop\LisSIMV5\HostQueryV5;C:\Users\zz0620\Desktop\LisSIMV5\TCPConnectionV5;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPConnectionV5;C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\HostQueryV5;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -137,7 +138,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\zz0620\Desktop\LisSIMV5\HostQueryV5;C:\Users\zz0620\Desktop\LisSIMV5\TCPConnectionV5;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPConnectionV5;C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\HostQueryV5;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -155,10 +156,10 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\HostQueryV5\HostQueryV5.vcxproj">
+    <ProjectReference Include="..\HostQuery\HostQuery.vcxproj">
       <Project>{8d517719-84b4-4af2-a2dd-5980eab475f5}</Project>
     </ProjectReference>
-    <ProjectReference Include="..\TCPConnectionV5\TCPConnectionV5.vcxproj">
+    <ProjectReference Include="..\TCPConnection\TCPConnection.vcxproj">
       <Project>{74be7c40-ffb8-4662-a937-515813605fe4}</Project>
     </ProjectReference>
   </ItemGroup>

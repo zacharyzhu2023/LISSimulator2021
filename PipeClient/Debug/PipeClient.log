@@ -1,0 +1,4 @@
+﻿  PipeClient.cpp
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\PipeClient\PipeClient.cpp(85,7): warning C4101: 'messageReceiver': unreferenced local variable
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\PipeClient\PipeClient.cpp(84,8): warning C4101: 'bytesRead': unreferenced local variable
+  PipeClient.vcxproj -> C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\Debug\PipeClient.exe

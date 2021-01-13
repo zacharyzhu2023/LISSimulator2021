@@ -1,5 +1,0 @@
-﻿  TCPConnectionV5.cpp
-C:\Users\zz0620\Desktop\LisSIMV5\TCPConnectionV5\TCPConnectionV5.cpp(115,13): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
-C:\Users\zz0620\Desktop\LisSIMV5\TCPConnectionV5\TCPConnectionV5.cpp(203,35): warning C4305: 'initializing': truncation from '__int64' to 'int'
-C:\Users\zz0620\Desktop\LisSIMV5\TCPConnectionV5\TCPConnectionV5.cpp(203,21): warning C4309: 'initializing': truncation of constant value
-  TCPConnectionV5.vcxproj -> C:\Users\zz0620\Desktop\LisSIMV5\Debug\TCPConnectionV5.lib

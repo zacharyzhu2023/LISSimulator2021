@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (TCPWrapperClass.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+HostQuery.lib(PatientInformation.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  TCPWrapperClass.vcxproj -> C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\Debug\TCPWrapperClass.dll

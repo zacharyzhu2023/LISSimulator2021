@@ -1,0 +1,51 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CSharpServerApp/1.0.0": {
+        "dependencies": {
+          "CSharpReceiverPipe": "1.0.0",
+          "TCPWrapperClass": "1.0.0"
+        },
+        "runtime": {
+          "CSharpServerApp.dll": {}
+        }
+      },
+      "CSharpReceiverPipe/1.0.0": {
+        "runtime": {
+          "CSharpReceiverPipe.dll": {}
+        }
+      },
+      "TCPWrapperClass/1.0.0": {
+        "dependencies": {
+          "HostQuery": "1.0.0",
+          "TCPConnection": "1.0.0"
+        },
+        "runtime": {
+          "TCPWrapperClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpServerApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSharpReceiverPipe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TCPWrapperClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,4 +1,2 @@
-C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPUnmanagedWrapper\Debug\TCPUnmanagedWrapper.vcxprojAssemblyReference.cache
-C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\TCPUnmanagedWrapper\Debug\TCPUnmanagedWrapper.vcxproj.CopyComplete
-C:\Users\zz0620\Desktop\LisSIMV5\TCPUnmanagedWrapper\Debug\TCPUnmanagedWrapper.vcxprojAssemblyReference.cache
-C:\Users\zz0620\Desktop\LisSIMV5\TCPUnmanagedWrapper\Debug\TCPUnmanagedWrapper.vcxproj.CopyComplete
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\TCPUnmanagedWrapper\Debug\TCPUnmanagedWrapper.vcxprojAssemblyReference.cache
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\TCPUnmanagedWrapper\Debug\TCPUnmanagedWrapper.vcxproj.CopyComplete

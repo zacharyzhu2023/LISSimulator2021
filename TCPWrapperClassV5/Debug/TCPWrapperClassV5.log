@@ -1,3 +1,0 @@
-﻿  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-HostQueryV5.lib(PatientInformationV5.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
-  TCPWrapperClassV5.vcxproj -> C:\Users\zz0620\Desktop\LisSIMV5\Debug\TCPWrapperClassV5.dll

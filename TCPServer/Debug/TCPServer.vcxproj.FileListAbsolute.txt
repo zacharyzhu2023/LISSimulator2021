@@ -1,0 +1,2 @@
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\TCPServer\Debug\TCPServer.vcxprojAssemblyReference.cache
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\TCPServer\Debug\TCPServer.vcxproj.CopyComplete

@@ -1,4 +1,0 @@
-C:\Users\zz0620\Desktop\LisSimulator\LisSIMV5\Debug\HostQueryV5.pdb
-C:\Users\zz0620\Desktop\LisSimulator\LISSimV5\HostQueryV5\Debug\HostQueryV5.pdb
-C:\Users\zz0620\Desktop\LisSIMV5\Debug\HostQueryV5.pdb
-C:\Users\zz0620\Desktop\LisSIMV5\HostQueryV5\Debug\HostQueryV5.pdb

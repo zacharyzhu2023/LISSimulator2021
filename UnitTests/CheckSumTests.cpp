@@ -12,7 +12,7 @@ for the test strings.
 #include <stdio.h>
 #include <iostream>
 #include <string>
-#include "TCPConnectionV5.h"
+#include "TCPConnection.h"
 
 using namespace std;
 
@@ -72,7 +72,7 @@ string compressedQuery = string(1, char(2)) + "2Q|1|^SAMPLE01\\^SAMPLE02\\^SAMPL
 /* Function to test checksum sample strings */
 void testChecksum()
 {
-	TCPConnectionV5 UnitTest(true, 0, "", "");
+	TCPConnection UnitTest(true, 0, "", "");
 	char t1 = UnitTest.checkSum(test1);
 	char t2 = UnitTest.checkSum(test2);
 	char t3 = UnitTest.checkSum(test3);
@@ -91,7 +91,7 @@ void testChecksum()
 /* Generating checksums for input lines */
 void generateChecksums()
 {
-	TCPConnectionV5 UnitTest(true, 0, "", "");
+	TCPConnection UnitTest(true, 0, "", "");
 	cout << "Generate checksums for input lines for CLIENT\n" << endl;
 	cout << "Checksum: " << UnitTest.generateChecksum(inpL1) << endl;
 	cout << "Checksum: " << UnitTest.generateChecksum(inpL2) << endl;

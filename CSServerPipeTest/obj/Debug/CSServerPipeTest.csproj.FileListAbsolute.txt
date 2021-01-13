@@ -1,0 +1,7 @@
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\Debug\CSServerPipeTest.exe
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\Debug\CSServerPipeTest.pdb
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\CSServerPipeTest\obj\Debug\CSServerPipeTest.csprojAssemblyReference.cache
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\CSServerPipeTest\obj\Debug\CSServerPipeTest.csproj.CoreCompileInputs.cache
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\CSServerPipeTest\obj\Debug\CSServerPipeTest.csproj.CopyComplete
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\CSServerPipeTest\obj\Debug\CSServerPipeTest.exe
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\CSServerPipeTest\obj\Debug\CSServerPipeTest.pdb

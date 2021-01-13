@@ -1,0 +1,13 @@
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\TCPCSharpApp\bin\Debug\TCPCSharpApp.exe.config
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\TCPCSharpApp\bin\Debug\TCPCSharpApp.exe
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\TCPCSharpApp\bin\Debug\TCPCSharpApp.pdb
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\TCPCSharpApp\bin\Debug\TCPWrapperClass.dll
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\TCPCSharpApp\bin\Debug\TCPWrapperClass.pdb
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\Debug\TCPCSharpApp.exe.config
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\Debug\TCPCSharpApp.exe
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\Debug\TCPCSharpApp.pdb
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\TCPCSharpApp\obj\Debug\TCPCSharpApp.csprojAssemblyReference.cache
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\TCPCSharpApp\obj\Debug\TCPCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\TCPCSharpApp\obj\Debug\TCPCSharpApp.csproj.CopyComplete
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\TCPCSharpApp\obj\Debug\TCPCSharpApp.exe
+C:\Users\zz1220\Desktop\LISSimulator2021\LISCommunicationLayer\TCPCSharpApp\obj\Debug\TCPCSharpApp.pdb
